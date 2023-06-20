@@ -1,0 +1,56 @@
+*{
+    color:black;
+    background-color: rgb(145, 141, 141);
+}
+
+img {
+    height:auto;
+    width:400px;
+}
+h1{
+    font-size: 40px;
+    color: black;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+    
+}
+#las_des,
+#piz_des {
+    color: green;
+}
+#las_ing,
+#piz_ing{
+    color:white
+}
+#las_steps,
+#piz_steps {
+    color:rgb(202, 43, 43)
+}
+
+#sus_des,
+#sus_steps {
+    color: rgb(190, 0, 41);
+}
+#sus_ing {
+    color:white;
+}
+ #main_title {
+    font-size: 100px;
+ }
+ 
+.Link {
+    color:white;
+    font-family: cursive;
+    font-size: 50px;
+    
+}
+#lasLink{
+    color:white;
+    
+}
